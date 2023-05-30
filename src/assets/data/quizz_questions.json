@@ -1,0 +1,55 @@
+{
+    "title":"Você é um gamer de verdade ?",
+    "questions":[
+      {
+        "id":1,
+        "question": "Qual foi seu primeiro videogame ?",
+        "options":[
+          {"id": 1, "name":"Atari", "alias":"A"},
+          {"id": 2, "name":"Super Nintendo ou Mega Drive", "alias":"B"},
+          {"id": 3, "name":"PS1", "alias":"A"},
+          {"id": 4, "name":"PS2", "alias":"B"},
+          {"id": 5, "name":"Xbox 360 ou PS3", "alias":"A"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "Você joga os jogos no Easy, Normal ou Hard ?",
+        "options":[
+          {"id": 1, "name":"Easy", "alias":"A"},
+          {"id": 2, "name":"Normal", "alias":"A"},
+          {"id": 3, "name":"Hard", "alias":"B"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Você prefere jogar em qual plataforma ?",
+        "options":[
+          {"id": 1, "name":"Videogame", "alias":"B"},
+          {"id": 2, "name":"PC ou Notebook", "alias":"A"},
+          {"id": 3, "name":"SmartPhone", "alias":"A"},
+          {"id": 4, "name":"Todos", "alias":"B"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "Você prefere quais tipos de jogos ?",
+        "options":[
+          {"id": 1, "name":"Competitivos como COD: Warzone 2, Valorant, CS, Fortnite, LoL etc", "alias":"A"},
+          {"id": 2, "name":"Single Player focado em História", "alias":"B"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Você se considera um gamer de verdade ?",
+        "options":[
+          {"id": 1, "name":"Sim", "alias":"A"},
+          {"id": 2, "name":"Não", "alias":"B"}
+        ]
+      }
+    ],
+    "results":{
+      "A": "Não existe diferença para ser um gamer de verdade independente de onde você joga ou qual nível de dificuldade você escolhe!",
+      "B": "Não existe diferença para ser um gamer de verdade independente de onde você joga ou qual nível de dificuldade você escolhe!"
+    }
+  }
